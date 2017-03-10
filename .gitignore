@@ -1,0 +1,8 @@
+# OS X
+.DS_Store
+
+# Secrets
+src/hardclimbs_connection_uri.txt
+
+# PyCharm IDE
+.idea/
